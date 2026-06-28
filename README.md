@@ -103,3 +103,12 @@ The generated output CSV files contain the precise motor steps predicted by the 
    * **For 1H**: Measure reflection coefficients at **3 GHz**.
    * **For 2H**: Measure reflection coefficients at **3 GHz** and **6 GHz** simultaneously.
 3. **Calibration Note**: A calibration must be performed beforehand on the RF path and cables to ensure the VNA measurements accurately reach the reference plane of the impedance tuner.
+
+## Authors:
+* G. I. Arenas-Alvarez
+* J. R. Loo-Yau
+* L. M. Aguilar-Lobo
+* E. A. Hernández-Domínguez
+* J. A. Reynoso-Hernández
+
+### Submission ID: **10737
